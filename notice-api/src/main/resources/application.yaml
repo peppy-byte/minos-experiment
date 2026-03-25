@@ -1,0 +1,7 @@
+server:
+  port: 8204
+  servlet:
+    context-path: /notice
+spring:
+  application:
+    name: notice-api

@@ -1,0 +1,10 @@
+server:
+  port: 8203
+  servlet:
+    context-path: /agent
+spring:
+  application:
+    name: agent-api
+
+
+

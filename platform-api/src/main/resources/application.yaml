@@ -1,0 +1,7 @@
+server:
+  port: 8201
+  servlet:
+    context-path: /platform
+spring:
+  application:
+    name: platform-api

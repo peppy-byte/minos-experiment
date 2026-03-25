@@ -1,0 +1,7 @@
+server:
+  port: 8205
+  servlet:
+    context-path: /rag
+spring:
+  application:
+    name: rag-api
